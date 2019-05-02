@@ -1,0 +1,14 @@
+{
+  "name": "@noviny/test-packages",
+  "version": "1.0.0",
+  "description": "Repository to test out mono-repo tasks",
+  "main": "index.js",
+  "author": "Ben Conolly",
+  "license": "MIT",
+  "private": true,
+  "bolt": {
+    "workspaces": [
+      "packages/*"
+    ]
+  }
+}
