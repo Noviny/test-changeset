@@ -1,0 +1,7 @@
+{
+  "releases": [
+    { "name": "@noviny/test-package-a", "type": "major" },
+    { "name": "@noviny/test-package-b", "type": "minor" }
+  ],
+  "dependents": []
+}
