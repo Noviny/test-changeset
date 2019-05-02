@@ -1,0 +1,4 @@
+{
+  "releases": [{ "name": "@noviny/test-package-a", "type": "patch" }],
+  "dependents": []
+}
