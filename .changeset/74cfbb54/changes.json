@@ -1,8 +1,0 @@
-{
-  "releases": [
-    { "name": "@noviny/test-package-a", "type": "patch" },
-    { "name": "@noviny/test-package-b", "type": "patch" },
-    { "name": "@noviny/test-package-c", "type": "patch" }
-  ],
-  "dependents": []
-}
