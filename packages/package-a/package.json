@@ -1,9 +1,7 @@
 {
   "name": "@noviny/test-package-a",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "@noviny/test-package-c": "1.1.0"
-  }
+  "dependencies": { "@noviny/test-package-c": "1.2.0" }
 }
